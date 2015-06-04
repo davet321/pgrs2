@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Living in Glasgow
+navtitle: Glasgow
 tags:
 modified: 2015-05-01
 comments: false

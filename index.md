@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Welcome!
+navtitle: Home
 excerpt:
 tags:
 image:

@@ -93,6 +93,12 @@ body {
 	}
 }
 
+.top-navigation .nav-current {
+	a {
+		color: #0da4d4;
+	}
+}
+
 /* Animated lines for mobile nav button */
 $button-size: 1.5rem;
 @mixin navicon-line() {

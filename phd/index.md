@@ -1,6 +1,7 @@
 ---
 layout: page
 title: PhDs at Strathclyde
+navtitle: PhDs
 tags: [about, PGRS, postgrads, PGR, PhD]
 modified: 2015-05-05
 comments: false

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events
+navtitle: Events
 excerpt: "Events"
 image:
   feature: sample-image-9.jpg

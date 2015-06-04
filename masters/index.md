@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Masters Courses at Strathclyde
+navtitle: Masters
 tags: [about, PGRS, postgrads, masters]
 modified: 2015-05-05
 comments: false

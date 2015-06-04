@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About PGRS
+navtitle: About
 tags: [about, PGRS, postgrads, PGR, PhD]
 modified: 2015-04-27
 comments: false
