@@ -90,6 +90,12 @@ body {
 				padding: 0;
 			}
 		}
+		a:hover {
+			@media #{$small} {
+				color: $white;
+				background-color: #0da4d4;
+			}
+		}
 	}
 }
 
