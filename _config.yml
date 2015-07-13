@@ -32,7 +32,7 @@ owner:
   email: pg.strath@gmail.com
   disqus-shortname:
   twitter: PGRSstrath
-  facebook: pgrs.strathclyde
+  facebook: postgraduate.strathclyde
   google:
     plus: #username
     analytics:
@@ -57,4 +57,4 @@ owner:
   flickr: #username
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "bejs"]

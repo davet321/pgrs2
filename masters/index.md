@@ -6,9 +6,9 @@ tags: [about, PGRS, postgrads, masters]
 modified: 2015-05-05
 comments: false
 image:
-  feature: sample-image-10.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: masters_banner.jpg
+  credit: HELLER
+  creditlink: https://commons.wikimedia.org/wiki/File:Machining_crankshaft.jpg
 ---
 
 ## MSc/MRes

@@ -4,7 +4,7 @@ title: Events
 navtitle: Events
 excerpt: "Events"
 image:
-  feature: sample-image-9.jpg
+  feature: blank_banner2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
@@ -17,7 +17,7 @@ image:
 
 ### Monthly Events
 
-- [Payday Social, 29th of every month across the city](http://www.facebook.com/pgrs.strathclyde)
+- [Payday Social, 28th of every month across the city](http://www.facebook.com/postgraduate.strathclyde)
 
 - [Bright Club](http://www.facebook.com/brightclubglasgow)
 

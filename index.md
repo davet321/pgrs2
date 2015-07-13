@@ -5,7 +5,7 @@ navtitle: Home
 excerpt:
 tags:
 image:
-  feature: glasgow-banner-3.jpg
+  feature: home_banner.jpg
   credit:
   creditlink:
 ---

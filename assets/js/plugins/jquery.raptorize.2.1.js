@@ -20,11 +20,11 @@
 (function ($) {
     var raptorUrls = [
         '/images/raptors/raptor.png',
-        //'/images/raptors/raptor1.png',
-        //'/images/raptors/raptor2.png',
-        //'/images/raptors/raptor3.png',
-        //'/images/raptors/raptor4.png',
-        //'/images/raptors/raptor5.png',
+        '/images/raptors/raptor1.png',
+        '/images/raptors/raptor2.png',
+        '/images/raptors/raptor3.png',
+        '/images/raptors/raptor4.png',
+        '/images/raptors/raptor5.png',
     ];
     var raptorCounter = 0;
 

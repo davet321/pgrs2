@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About PGRS
-navtitle: About
-tags: [about, PGRS, postgrads, PGR, PhD]
+title: About PGS
+navtitle: About PGS
+tags: [about, PGS, postgrads, PGR, PhD]
 modified: 2015-04-27
 comments: false
 image:
-  feature: sample-image-8.jpg
+  feature: blank_banner1.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
