@@ -8,7 +8,7 @@ comments: false
 image:
   feature: phd_banner.jpg
   credit: Elizabeth Fraczek
-  creditlink:
+  creditlink: ../images/Elisabeth_Fraczek.jpg
 ---
 
 {% include _toc.html %}
