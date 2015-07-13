@@ -8,7 +8,7 @@ comments: false
 image:
   feature: masters_banner.jpg
   credit: HELLER
-  creditlink: https://commons.wikimedia.org/wiki/File:Machining_crankshaft.jpg
+  creditlink: https://commons.wikimedia.org/wiki/File:Machining_crankshaft.jpg#
 ---
 
 ## MSc/MRes

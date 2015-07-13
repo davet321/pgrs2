@@ -8,7 +8,7 @@ comments: false
 image:
   feature: glasgow_banner.jpg
   credit: Maciej Żytniewski
-  creditlink: http://commons.wikimedia.org/wiki/File%3ASkyline_of_Glasgow.jpg
+  creditlink: http://commons.wikimedia.org/wiki/File%3ASkyline_of_Glasgow.jpg#
 ---
 
 {% include _toc.html %}
