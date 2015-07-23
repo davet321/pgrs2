@@ -6,9 +6,9 @@ tags: [about, PGS, postgrads, PGR, PhD]
 modified: 2015-04-27
 comments: false
 image:
-  feature: blank_banner1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: about_banner.jpg
+  credit:
+  creditlink:
 ---
 
 ## Get Involved
