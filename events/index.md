@@ -4,9 +4,9 @@ title: Events
 navtitle: Events
 excerpt: "Events"
 image:
-  feature: blank_banner2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: events_banner.jpg
+  credit: Groudhopper2000
+  creditlink: https://commons.wikimedia.org/wiki/File:Hampden_Park_Glasgow_Commonwealth_Games_Day_9.JPG
 ---
 
 ### Weekly Events
