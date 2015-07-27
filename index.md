@@ -16,4 +16,4 @@ You can find us in the Postgraduate Lounge of the Union every Friday between 12.
 
 The Postgraduate Society is here to provide a great time for postgrads at Strathclyde, whether you’re here for a Master or a PhD, we hope to welcome every one of you at our events.
 
-If you are interested in joining the Postgraduate Society come and talk to us at the Freshers Fair or [email us](pg.strath@gmail.com) to become a member.
+If you are interested in joining the Postgraduate Society come and talk to us at the Freshers Fair or [email us](mailto:pg.strath@gmail.com) to become a member.
